@@ -1,0 +1,24 @@
+{
+  "name": "git_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsFolk/git_pracitce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsFolk/git_pracitce/issues"
+  },
+  "homepage": "https://github.com/IsFolk/git_pracitce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
